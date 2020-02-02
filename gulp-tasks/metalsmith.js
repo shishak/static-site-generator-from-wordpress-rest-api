@@ -47,7 +47,7 @@ module.exports = function (gulp, plugins, foo) {
 						description: "Welcome to my new static generated blog. This code is a proof of concept to prove that it is possible to use Wordpress as a headless CMS or / and CDN. Visit https://github.com/sjsd/static-site-generator-from-wordpress-rest-api/ for more information.",
 						gitUrl: "https://github.com/sjsd/static-site-generator-from-wordpress-rest-api/",
 						twitterNick: "@sjsd",
-						siteUrl: "//www.example.com"
+						siteUrl: "//wp-news-api.herokuapp.com"
 					}
 				},
 				json: ['./app/assets/json/*.json'],
